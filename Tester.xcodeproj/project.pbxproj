@@ -21,6 +21,25 @@
 		790EFC3E18170A3900A88631 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 790EFC2018170A3900A88631 /* UIKit.framework */; };
 		790EFC4618170A3900A88631 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 790EFC4418170A3900A88631 /* InfoPlist.strings */; };
 		790EFC4818170A3900A88631 /* TesterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 790EFC4718170A3900A88631 /* TesterTests.m */; };
+		7928EA7E1819AA2E00D4EEEA /* ABGTiles.m in Sources */ = {isa = PBXBuildFile; fileRef = 7928EA7D1819AA2E00D4EEEA /* ABGTiles.m */; };
+		7942139D18183BC200A9FE80 /* Factory.m in Sources */ = {isa = PBXBuildFile; fileRef = 7942139C18183BC200A9FE80 /* Factory.m */; };
+		794213A318183BEF00A9FE80 /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = 794213A218183BEF00A9FE80 /* Character.m */; };
+		794213A618183C3800A9FE80 /* Boss.m in Sources */ = {isa = PBXBuildFile; fileRef = 794213A518183C3800A9FE80 /* Boss.m */; };
+		798B1B0C182051C600D81157 /* ABGWeapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 798B1B0B182051C600D81157 /* ABGWeapon.m */; };
+		798B1B0F182051E100D81157 /* ABGArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 798B1B0E182051E100D81157 /* ABGArmor.m */; };
+		79E7DD0C181745C400512A9E /* old-world-map.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD0B181745C400512A9E /* old-world-map.jpg */; };
+		79E7DD1D18174E1C00512A9E /* Bay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1118174E1C00512A9E /* Bay.jpg */; };
+		79E7DD1E18174E1C00512A9E /* Beach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1218174E1C00512A9E /* Beach.jpg */; };
+		79E7DD1F18174E1C00512A9E /* Cliff.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1318174E1C00512A9E /* Cliff.JPG */; };
+		79E7DD2018174E1C00512A9E /* Desert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1418174E1C00512A9E /* Desert.jpg */; };
+		79E7DD2118174E1C00512A9E /* Dunes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1518174E1C00512A9E /* Dunes.jpg */; };
+		79E7DD2218174E1C00512A9E /* Forest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1618174E1C00512A9E /* Forest.jpg */; };
+		79E7DD2318174E1C00512A9E /* Island.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1718174E1C00512A9E /* Island.jpg */; };
+		79E7DD2418174E1C00512A9E /* Lagoon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1818174E1C00512A9E /* Lagoon.jpg */; };
+		79E7DD2518174E1C00512A9E /* Oasis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1918174E1C00512A9E /* Oasis.jpg */; };
+		79E7DD2618174E1C00512A9E /* Ocean.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1A18174E1C00512A9E /* Ocean.jpeg */; };
+		79E7DD2718174E1C00512A9E /* Shore.png in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1B18174E1C00512A9E /* Shore.png */; };
+		79E7DD2818174E1C00512A9E /* Statue.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79E7DD1C18174E1C00512A9E /* Statue.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +72,31 @@
 		790EFC4318170A3900A88631 /* TesterTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TesterTests-Info.plist"; sourceTree = "<group>"; };
 		790EFC4518170A3900A88631 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		790EFC4718170A3900A88631 /* TesterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TesterTests.m; sourceTree = "<group>"; };
+		7928EA7C1819AA2E00D4EEEA /* ABGTiles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABGTiles.h; sourceTree = "<group>"; };
+		7928EA7D1819AA2E00D4EEEA /* ABGTiles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABGTiles.m; sourceTree = "<group>"; };
+		7942139B18183BC200A9FE80 /* Factory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Factory.h; sourceTree = "<group>"; };
+		7942139C18183BC200A9FE80 /* Factory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Factory.m; sourceTree = "<group>"; };
+		794213A118183BEF00A9FE80 /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Character.h; sourceTree = "<group>"; };
+		794213A218183BEF00A9FE80 /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
+		794213A418183C3800A9FE80 /* Boss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Boss.h; sourceTree = "<group>"; };
+		794213A518183C3800A9FE80 /* Boss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Boss.m; sourceTree = "<group>"; };
+		798B1B0A182051C600D81157 /* ABGWeapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABGWeapon.h; sourceTree = "<group>"; };
+		798B1B0B182051C600D81157 /* ABGWeapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABGWeapon.m; sourceTree = "<group>"; };
+		798B1B0D182051E100D81157 /* ABGArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ABGArmor.h; path = ../ABGArmor.h; sourceTree = "<group>"; };
+		798B1B0E182051E100D81157 /* ABGArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ABGArmor.m; path = ../ABGArmor.m; sourceTree = "<group>"; };
+		79E7DD0B181745C400512A9E /* old-world-map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "old-world-map.jpg"; sourceTree = "<group>"; };
+		79E7DD1118174E1C00512A9E /* Bay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bay.jpg; sourceTree = "<group>"; };
+		79E7DD1218174E1C00512A9E /* Beach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Beach.jpg; sourceTree = "<group>"; };
+		79E7DD1318174E1C00512A9E /* Cliff.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cliff.JPG; sourceTree = "<group>"; };
+		79E7DD1418174E1C00512A9E /* Desert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Desert.jpg; sourceTree = "<group>"; };
+		79E7DD1518174E1C00512A9E /* Dunes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dunes.jpg; sourceTree = "<group>"; };
+		79E7DD1618174E1C00512A9E /* Forest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Forest.jpg; sourceTree = "<group>"; };
+		79E7DD1718174E1C00512A9E /* Island.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Island.jpg; sourceTree = "<group>"; };
+		79E7DD1818174E1C00512A9E /* Lagoon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lagoon.jpg; sourceTree = "<group>"; };
+		79E7DD1918174E1C00512A9E /* Oasis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Oasis.jpg; sourceTree = "<group>"; };
+		79E7DD1A18174E1C00512A9E /* Ocean.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ocean.jpeg; sourceTree = "<group>"; };
+		79E7DD1B18174E1C00512A9E /* Shore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shore.png; sourceTree = "<group>"; };
+		79E7DD1C18174E1C00512A9E /* Statue.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Statue.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +161,12 @@
 				790EFC2E18170A3900A88631 /* Main.storyboard */,
 				790EFC3118170A3900A88631 /* ABGViewController.h */,
 				790EFC3218170A3900A88631 /* ABGViewController.m */,
+				7928EA7B1819A46B00D4EEEA /* Model */,
+				798B1B1018205A6200D81157 /* Weapon+Armor */,
+				794213A118183BEF00A9FE80 /* Character.h */,
+				794213A218183BEF00A9FE80 /* Character.m */,
+				794213A418183C3800A9FE80 /* Boss.h */,
+				794213A518183C3800A9FE80 /* Boss.m */,
 				790EFC3418170A3900A88631 /* Images.xcassets */,
 				790EFC2318170A3900A88631 /* Supporting Files */,
 			);
@@ -126,6 +176,8 @@
 		790EFC2318170A3900A88631 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				79E7DD1018174E1C00512A9E /* Pirate Tiles */,
+				79E7DD0B181745C400512A9E /* old-world-map.jpg */,
 				790EFC2418170A3900A88631 /* Tester-Info.plist */,
 				790EFC2518170A3900A88631 /* InfoPlist.strings */,
 				790EFC2818170A3900A88631 /* main.m */,
@@ -150,6 +202,47 @@
 				790EFC4418170A3900A88631 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7928EA7B1819A46B00D4EEEA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				7942139B18183BC200A9FE80 /* Factory.h */,
+				7942139C18183BC200A9FE80 /* Factory.m */,
+				7928EA7C1819AA2E00D4EEEA /* ABGTiles.h */,
+				7928EA7D1819AA2E00D4EEEA /* ABGTiles.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		798B1B1018205A6200D81157 /* Weapon+Armor */ = {
+			isa = PBXGroup;
+			children = (
+				798B1B0D182051E100D81157 /* ABGArmor.h */,
+				798B1B0E182051E100D81157 /* ABGArmor.m */,
+				798B1B0A182051C600D81157 /* ABGWeapon.h */,
+				798B1B0B182051C600D81157 /* ABGWeapon.m */,
+			);
+			name = "Weapon+Armor";
+			sourceTree = "<group>";
+		};
+		79E7DD1018174E1C00512A9E /* Pirate Tiles */ = {
+			isa = PBXGroup;
+			children = (
+				79E7DD1118174E1C00512A9E /* Bay.jpg */,
+				79E7DD1218174E1C00512A9E /* Beach.jpg */,
+				79E7DD1318174E1C00512A9E /* Cliff.JPG */,
+				79E7DD1418174E1C00512A9E /* Desert.jpg */,
+				79E7DD1518174E1C00512A9E /* Dunes.jpg */,
+				79E7DD1618174E1C00512A9E /* Forest.jpg */,
+				79E7DD1718174E1C00512A9E /* Island.jpg */,
+				79E7DD1818174E1C00512A9E /* Lagoon.jpg */,
+				79E7DD1918174E1C00512A9E /* Oasis.jpg */,
+				79E7DD1A18174E1C00512A9E /* Ocean.jpeg */,
+				79E7DD1B18174E1C00512A9E /* Shore.png */,
+				79E7DD1C18174E1C00512A9E /* Statue.jpg */,
+			);
+			path = "Pirate Tiles";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +322,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79E7DD2618174E1C00512A9E /* Ocean.jpeg in Resources */,
+				79E7DD2518174E1C00512A9E /* Oasis.jpg in Resources */,
+				79E7DD2018174E1C00512A9E /* Desert.jpg in Resources */,
+				79E7DD1F18174E1C00512A9E /* Cliff.JPG in Resources */,
+				79E7DD2218174E1C00512A9E /* Forest.jpg in Resources */,
 				790EFC3518170A3900A88631 /* Images.xcassets in Resources */,
+				79E7DD1E18174E1C00512A9E /* Beach.jpg in Resources */,
 				790EFC2718170A3900A88631 /* InfoPlist.strings in Resources */,
+				79E7DD2118174E1C00512A9E /* Dunes.jpg in Resources */,
+				79E7DD2318174E1C00512A9E /* Island.jpg in Resources */,
+				79E7DD1D18174E1C00512A9E /* Bay.jpg in Resources */,
+				79E7DD2418174E1C00512A9E /* Lagoon.jpg in Resources */,
 				790EFC3018170A3900A88631 /* Main.storyboard in Resources */,
+				79E7DD0C181745C400512A9E /* old-world-map.jpg in Resources */,
+				79E7DD2718174E1C00512A9E /* Shore.png in Resources */,
+				79E7DD2818174E1C00512A9E /* Statue.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +356,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7928EA7E1819AA2E00D4EEEA /* ABGTiles.m in Sources */,
+				794213A618183C3800A9FE80 /* Boss.m in Sources */,
+				798B1B0C182051C600D81157 /* ABGWeapon.m in Sources */,
+				7942139D18183BC200A9FE80 /* Factory.m in Sources */,
+				798B1B0F182051E100D81157 /* ABGArmor.m in Sources */,
+				794213A318183BEF00A9FE80 /* Character.m in Sources */,
 				790EFC2918170A3900A88631 /* main.m in Sources */,
 				790EFC3318170A3900A88631 /* ABGViewController.m in Sources */,
 				790EFC2D18170A3900A88631 /* ABGAppDelegate.m in Sources */,
@@ -461,6 +573,7 @@
 				790EFC4D18170A3900A88631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		790EFC4E18170A3900A88631 /* Build configuration list for PBXNativeTarget "TesterTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +582,7 @@
 				790EFC5018170A3900A88631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
